@@ -1,3 +1,5 @@
+WEEK ONE
+
 I now have the power within Python to use conditional statements to ask questions and have my program take action accordingly. In this lecture, we discussed…
 
     Conditionals;
